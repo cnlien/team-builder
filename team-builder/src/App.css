@@ -20,3 +20,10 @@
 .App-link {
   color: #09d3ac;
 }
+
+.newTeamMember {
+  width: 50%;
+  margin: 5% auto;
+  padding: 5%;
+  text-align: left;
+}
