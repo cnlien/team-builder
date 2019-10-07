@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background: lightgray;
 }
 
 .App-logo {
@@ -24,6 +25,9 @@
 .newTeamMember {
   width: 50%;
   margin: 5% auto;
-  padding: 5%;
+  padding: 2.5% 5%;
   text-align: left;
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.15);
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
 }

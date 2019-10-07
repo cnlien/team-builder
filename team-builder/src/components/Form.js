@@ -3,6 +3,7 @@ import { Card, Button, Form, FormGroup, Label, Input } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.css';
 
 
+
 const NewTeamMember = () => {
     return(
         <Card className="newTeamMember">
@@ -29,7 +30,7 @@ const NewTeamMember = () => {
                        <option>Project Lead</option>
                    </Input>
                 </FormGroup>
-                
+
                 <Button>Submit</Button>
             </Form>
         </Card>

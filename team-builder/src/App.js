@@ -1,6 +1,7 @@
 import React from 'react';
-import './App.css';
 import NewTeamMember from './components/Form.js';
+import './App.css';
+
 // import { Route } from 'react-router-dom';
 
 function App() {
